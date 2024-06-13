@@ -220,14 +220,15 @@ a{
     nav a{
         font-size: 25px;
     }
-    h2{
-        font-size: 25px;
-    }
+
 }
     
 @media all and (max-width: 400px){
     .aside{
         flex-direction: column;
+    }
+    h2{
+        font-size: 25px;
     }
 
 }
