@@ -234,4 +234,17 @@ a{
         margin: 20px 0;
     }
 
+@media all and (max-width: 338px){
+    .aside{
+        flex-direction: column;
+    }
+    h2{
+        font-size: 18px;
+    }
+    .articlep{
+        margin: 15px 0;
+    }
+
+}
+
 }
