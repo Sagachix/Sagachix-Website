@@ -220,6 +220,9 @@ a{
     nav a{
         font-size: 25px;
     }
+    h1{
+        font-size: 25px;
+    }
 }
     
 @media all and (max-width: 400px){
